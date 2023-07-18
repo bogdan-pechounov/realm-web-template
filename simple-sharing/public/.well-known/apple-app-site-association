@@ -3,7 +3,7 @@
     "details": [
       {
         "appIDs": [
-          "ABCDE12345.com.uzential.RealmTemplate"
+          "N2FL2RHB7R.com.uzential.RealmTemplate"
         ],
         "components": [
           {
@@ -16,7 +16,7 @@
   },
   "webcredentials": {
     "apps": [
-      "ABCDE12345.com.example.app"
+      "N2FL2RHB7R.com.uzential.RealmTemplate"
     ]
   }
 }
