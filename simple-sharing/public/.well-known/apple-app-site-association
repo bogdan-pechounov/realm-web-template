@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "ABCDE12345.com.uzential.RealmTemplate"
+        ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches any URL."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "ABCDE12345.com.example.app"
+    ]
+  }
+}
